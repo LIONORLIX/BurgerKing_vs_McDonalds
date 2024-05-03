@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="./index.css" />
+</head>
+
+<body>
+    <!-- Load d3.js -->
+    <script src="https://d3js.org/d3.v6.js"></script>
+
+    <!-- Create a div where the graph will take place -->
+    <div class="exampleContainer">
+        <img src="assets/example.svg" height="75%">
+    </div>
+    <div class="spacer">
+    </div>
+    <div id="glyphContainer">
+        <svg viewBox="0 0 1280 2720"id="glyphArea"></svg>
+    </div>
+
+    <script src="draw.js"></script>
+    <script>
+        drawAll()
+    </script>
+
+</body>
+
+</html>

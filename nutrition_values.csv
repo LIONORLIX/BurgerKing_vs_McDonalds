@@ -1,0 +1,177 @@
+Chain,Item,Type,Calories,CaloriesFromFat,TotalFat,Sodium,TotalCarb,DietaryFiber,Protein
+Burger King,Whopper Sandwich,Sandwiches,660,360,40,980,49,2,28
+Burger King,Whopper Sandwich with Cheese,Sandwiches,740,420,46,1340,50,2,32
+Burger King,Bacon & Cheese Whopper Sandwich,Sandwiches,790,460,51,1560,50,2,35
+Burger King,Double Whopper Sandwich,Sandwiches,900,520,58,1050,49,2,48
+Burger King,Double Whopper Sandwich with Cheese,Sandwiches,980,580,64,1410,50,2,52
+Burger King,Triple Whopper Sandwich,Sandwiches,1130,680,75,1120,49,2,67
+Burger King,Triple Whopper Sandwich with Cheese,Sandwiches,1220,740,82,1470,50,2,71
+Burger King,Whopper JR Sandwich,Sandwiches,310,160,18,390,27,1,13
+Burger King,Bacon King Sandwich,Sandwiches,1150,710,79,2150,49,2,61
+Burger King,Cheddar Bacon King Sandwich,Sandwiches,1190,750,84,1930,50,2,64
+Burger King,Single Quarter Pound King Sandwich,Sandwiches,580,260,29,1310,49,2,32
+Burger King,Double Quarter Pound King Sandwich,Sandwiches,900,480,54,1740,50,2,56
+Burger King,Single Stacker King,Sandwiches,700,380,42,1360,48,1,35
+Burger King,Double Stacker King,Sandwiches,1050,610,68,1870,49,1,61
+Burger King,Impossible Whopper Sandwich,Sandwiches,630,310,34,1080,58,4,25
+Burger King,Hamburger,Sandwiches,240,90,10,380,26,1,13
+Burger King,Cheeseburger,Sandwiches,280,120,13,560,27,1,15
+Burger King,Double Hamburger,Sandwiches,350,160,18,410,26,1,21
+Burger King,Double Cheeseburger,Sandwiches,390,190,21,590,27,1,23
+Burger King,Extra Long Cheeseburger,Sandwiches,630,330,37,1050,45,2,29
+Burger King,Bacon Cheeseburger,Sandwiches,320,140,16,710,27,1,17
+Burger King,Bacon Double Cheeseburger,Sandwiches,420,210,24,740,27,1,25
+Burger King,Crispy Chicken Sandwich,Sandwiches,670,370,41,1080,54,2,23
+Burger King,Spicy Crispy Chicken Sandwich,Sandwiches,700,370,42,1140,57,3,25
+Burger King,Original Chicken Sandwich,Sandwiches,660,360,40,1170,48,2,28
+Burger King,Bacon & Cheese Crispy Chicken Sandwich,Sandwiches,800,460,52,1650,55,2,30
+Burger King,BBQ Bacon Crispy Chicken Sandwich,Sandwiches,790,440,49,1630,60,2,28
+Burger King,Big Fish Sandwich,Sandwiches,510,250,28,1180,51,2,16
+Burger King,Crispy Chicken Jr.,Snacks,450,270,30,780,34,2,12
+Burger King,Spicy Crispy Chicken Jr.,Snacks,390,190,21,740,37,2,12
+Burger King,Chicken Nuggets - 6pc,Snacks,260,150,16,470,16,1,12
+Burger King,Spicy Chicken Nuggets - 6pc,Snacks,320,200,22,850,17,3,12
+Burger King,Chicken Fries - 9pc,Snacks,280,150,17,850,20,1,13
+Burger King,Crispy Taco,Snacks,170,80,9,410,19,2,5
+Burger King,Onion Rings - medium,Snacks,410,190,21,1080,53,4,4
+Burger King,French Fries - medium,Snacks,380,140,16,360,58,6,4
+Burger King,Garden Chicken Salad with Crispy Chicken - no dressing,Salads,440,220,25,930,31,3,25
+Burger King,Club Salad with Crispy Chicken - no dressing,Salads,540,300,33,1380,31,3,31
+Burger King,Garden Side Salad - no dressing,Salads,60,35,4,95,3,1,4
+Burger King,Buttery Garlic Croutons,Salads,60,20,2,180,9,0,1
+Burger King,Dutch Apple Pie,Desserts,340,130,14,310,51,1,3
+Burger King,Hershey's Sundae Pie,Desserts,310,170,19,220,32,1,3
+Burger King,Pie made with Twix,Desserts,370,180,20,330,45,1,4
+Burger King,Oreo Cookie Cheesecake,Desserts,350,170,18,310,41,1,6
+Burger King,Soft Serve Cone,Desserts,190,40,4,150,32,0,5
+Burger King,Soft Serve Cup,Desserts,170,40,4,150,28,0,5
+Burger King,Hershey's Chocolate Sundae,Desserts,260,45,5,160,49,1,5
+Burger King,Caramel Sundae,Desserts,240,50,5,210,42,0,5
+Burger King,Chocolate Chip Cookies (each),Desserts,160,70,8,125,24,1,2
+Burger King,Smoothie: Strawberry Banana 16 fl oz,Desserts,310,10,1,55,71,3,4
+Burger King,Oreo Shake,Desserts,720,180,20,540,118,1,16
+Burger King,Chocolate Oreo Shake,Desserts,740,190,22,680,121,1,17
+Burger King,Vanilla Milk Shake,Desserts,580,140,15,420,98,0,14
+Burger King,Hershey's Chocolate Milk Shake,Desserts,610,140,16,500,103,1,14
+Burger King,Strawberry Milk Shake,Desserts,640,140,15,440,113,0,14
+Burger King,Coca Cola Classic (Medium),Soft Drinks,270,0,0,60,73,0,0
+Burger King,Diet Coke (Medium),Soft Drinks,0,0,0,85,0,0,0
+Burger King,Sprite (Medium),Soft Drinks,260,0,0,120,70,0,0
+Burger King,Dr. Pepper (Medium),Soft Drinks,240,0,0,75,65,0,0
+Burger King,Barq's Root Beer (Medium),Soft Drinks,300,0,0,120,81,0,0
+Burger King,Cherry Coke (Medium),Soft Drinks,280,0,0,70,76,0,0
+Burger King,Fanta Orange (Medium),Soft Drinks,280,0,0,70,78,0,0
+Burger King,Hi-C Fruit Punch (Medium),Soft Drinks,280,0,0,95,77,0,0
+Burger King,Minute Maid Light Lemonade (Medium),Soft Drinks,10,0,0,70,4,0,0
+Burger King,Sweet Tea (Medium),Soft Drinks,160,0,0,0,49,0,0
+Burger King,Unsweetened Tea (Medium),Soft Drinks,0,0,0,0,0,0,0
+Mc Donalds,Hamburger,Sandwiches,250,80,9,520,31,2,12
+Mc Donalds,Cheeseburger,Sandwiches,300,110,12,750,33,2,15
+Mc Donalds,Double Cheeseburger,Sandwiches,440,210,23,1150,34,2,25
+Mc Donalds,McDouble,Sandwiches,390,170,19,920,33,2,22
+Mc Donalds,Quarter Pounder with Cheese,Sandwiches,510,230,26,1190,40,3,29
+Mc Donalds,Double Quarter Pounder with Cheese,Sandwiches,740,380,42,1380,40,3,48
+Mc Donalds,Big Mac,Sandwiches,540,260,29,1040,45,3,25
+Mc Donalds,Big N Tasty,Sandwiches,460,220,24,720,37,3,24
+Mc Donalds,Big N Tasty with Cheese,Sandwiches,510,250,28,960,38,3,27
+Mc Donalds,Angus Bacon & Cheese,Sandwiches,790,350,39,2070,63,4,45
+Mc Donalds,Angus Deluxe,Sandwiches,750,350,39,1700,61,4,40
+Mc Donalds,Angus Mushroom & Swiss,Sandwiches,770,360,40,1170,59,4,44
+Mc Donalds,Filet-O-Fish,Sandwiches,380,170,18,640,38,2,15
+Mc Donalds,McChicken,Sandwiches,360,150,16,830,40,2,14
+Mc Donalds,McRib,Sandwiches,500,240,26,980,44,3,22
+Mc Donalds,Premium Grilled Chicken Classic Sandwich,Sandwiches,360,80,9,820,41,4,27
+Mc Donalds,Premium Crispy Chicken Classic Sandwich,Sandwiches,510,200,22,990,56,3,24
+Mc Donalds,Premium Grilled Chicken Club Sandwich,Sandwiches,460,150,17,1040,43,4,35
+Mc Donalds,Premium Crispy Chicken Club Sandwich,Sandwiches,620,260,29,1200,57,3,31
+Mc Donalds,Premium Grilled Chicken Ranch BLT Sandwich,Sandwiches,380,90,10,1000,41,4,31
+Mc Donalds,Premium Crispy Chicken Ranch BLT Sandwich,Sandwiches,540,210,23,1160,56,3,27
+Mc Donalds,Southern Style Crispy Chicken Sandwich,Sandwiches,400,150,17,1030,39,1,24
+Mc Donalds,Ranch Snack Wrap (Crispy),Sandwiches,340,150,17,810,33,1,14
+Mc Donalds,Ranch Snack Wrap (Grilled),Sandwiches,270,90,10,830,26,1,18
+Mc Donalds,Honey Mustard Snack Wrap (Crispy),Sandwiches,330,140,16,780,34,1,14
+Mc Donalds,Honey Mustard Snack Wrap (Grilled),Sandwiches,260,80,9,800,27,1,18
+Mc Donalds,Chipotle BBQ Snack Wrap (Crispy),Sandwiches,330,140,15,810,35,1,14
+Mc Donalds,Chipotle BBQ Snack Wrap (Grilled),Sandwiches,260,80,9,830,28,1,18
+Mc Donalds,Angus Bacon & Cheese Snack Wrap,Sandwiches,390,190,21,1080,28,1,21
+Mc Donalds,Angus Chipotle BBQ Bacon,Sandwiches,800,350,39,2020,66,4,45
+Mc Donalds,Angus Chipotle BBQ Bacon Snack Wrap,Sandwiches,400,190,22,1060,30,1,21
+Mc Donalds,Angus Deluxe Snack Wrap,Sandwiches,410,220,25,990,27,2,20
+Mc Donalds,Angus Mushroom & Swiss Snack Wrap,Sandwiches,430,230,26,730,27,2,22
+Mc Donalds,Mac Snack Wrap,Sandwiches,330,170,19,690,26,1,15
+Mc Donalds,Small French Fries,Snacks,230,100,11,160,29,3,3
+Mc Donalds,Medium French Fries,Snacks,380,170,19,270,48,5,4
+Mc Donalds,Large French Fries,Snacks,500,220,25,350,63,6,6
+Mc Donalds,Ketchup Packet,Snacks,15,0,0,110,3,0,0
+Mc Donalds,Salt Packet,Snacks,0,0,0,270,0,0,0
+Mc Donalds,Chicken McNuggets (6pc),Snacks,280,160,18,540,18,1,13
+Mc Donalds,Barbeque Sauce,Snacks,50,0,0,260,12,0,0
+Mc Donalds,Honey,Snacks,50,0,0,0,12,0,0
+Mc Donalds,Hot Mustard Sauce,Snacks,60,20,2,250,9,2,1
+Mc Donalds,Sweet 'N Sour Sauce,Snacks,50,0,0,150,12,0,0
+Mc Donalds,Chicken Selects Premium Breast Strips (5pc),Snacks,660,360,40,1680,39,0,38
+Mc Donalds,Spicy Buffalo Sauce,Snacks,60,50,6,800,1,1,0
+Mc Donalds,Creamy Ranch Sauce,Snacks,170,160,18,270,2,0,0
+Mc Donalds,Tangy Honey Mustard Sauce,Snacks,60,20,2,140,10,0,0
+Mc Donalds,Sothwestern Chipotle Barbeque Sauce,Snacks,60,0,0,210,15,1,0
+Mc Donalds,Premium Southwest Salad with Grilled Chicken,Salads,320,80,9,960,30,6,30
+Mc Donalds,Premium Southwest salad with Crispy Chicken,Salads,430,180,20,920,38,6,26
+Mc Donalds,Premium Southwest Salad,Salads,140,40,4,150,20,6,6
+Mc Donalds,Premium Bacon Ranch Salad with Grilled Chicken,Salads,260,90,9,1010,12,3,33
+Mc Donalds,Premium Bacon Ranch Salad with Crispy Chicken,Salads,370,180,20,970,20,3,29
+Mc Donalds,Premium Bacon Ranch Salad,Salads,140,70,7,300,10,3,9
+Mc Donalds,Premium Caesar Salad with Grilled Chicken,Salads,220,60,6,890,12,3,30
+Mc Donalds,Premium Caesar Salad with Crispy Chicken,Salads,330,150,17,840,20,3,26
+Mc Donalds,Premium Caesar Salad,Salads,90,35,4,180,9,3,7
+Mc Donalds,Side Salad,Salads,20,0,0,10,4,1,1
+Mc Donalds,Butter Garlic Croutons,Salads,60,15,1,140,10,1,2
+Mc Donalds,Snack Size Fruit & Walnut Salad,Salads,210,70,8,60,31,2,4
+Mc Donalds,Fruit & Yogurt Parfait,Desserts,160,20,2,85,31,1,4
+Mc Donalds,Low Fat Caramel Dip,Desserts,70,5,0,35,15,0,0
+Mc Donalds,Vanilla Reduced Fat Ice Cream Cone,Desserts,150,35,3,60,24,0,4
+Mc Donalds,Kiddie Cone,Desserts,45,10,1,20,8,0,1
+Mc Donalds,Strawberry Sundae,Desserts,280,60,6,95,49,1,6
+Mc Donalds,Hot Caramel Sundae,Desserts,340,70,8,160,60,1,7
+Mc Donalds,Hot Fudge Sundae,Desserts,330,90,10,180,54,2,8
+Mc Donalds,Peanuts,Desserts,45,30,3,0,2,1,2
+Mc Donalds,McFlurry with M&M's Candies,Desserts,710,230,25,220,105,4,15
+Mc Donalds,McFlurry with OREO Cookies,Desserts,580,170,19,320,89,3,13
+Mc Donalds,Baked Hot Apple Pie,Desserts,250,110,13,170,32,4,2
+Mc Donalds,Cinnamon Melts,Desserts,460,170,19,370,66,3,6
+Mc Donalds,McDonaldland Cookies,Desserts,260,70,8,300,43,1,4
+Mc Donalds,Chocolate Chip Cookie,Desserts,160,70,8,90,21,1,2
+Mc Donalds,Oatmeal Raisin Cookie,Desserts,150,50,6,135,22,1,2
+Mc Donalds,Sugar Cookie,Desserts,160,60,7,120,21,0,2
+Mc Donalds,Apple Dippers with Low Fat Caramel Dip,Desserts,100,5,0,35,23,0,0
+Mc Donalds,Chocolate McCafe Shake (Medium),Desserts,720,180,20,300,119,1,15
+Mc Donalds,Chocolate Triple Thick Shake (Medium),Desserts,580,120,14,250,102,1,13
+Mc Donalds,Snack Size McFlurry with M&M's Candies,Desserts,430,140,16,130,64,2,9
+Mc Donalds,Snack Size McFlurry with OREO Cookies,Desserts,340,100,12,200,53,2,8
+Mc Donalds,Strawberry McCafe Shake (Medium),Desserts,710,180,20,210,116,0,14
+Mc Donalds,Strawberry Triple Thick Shake (Medium),Desserts,560,120,13,170,97,0,13
+Mc Donalds,Vanilla McCafe Shake (Medium),Desserts,680,180,20,220,111,0,14
+Mc Donalds,Vanilla Triple Thick Shake (Medium),Desserts,550,120,13,190,96,0,13
+Mc Donalds,Strawberry Banana Smoothie (Medium),Desserts,260,5,1,40,60,3,2
+Mc Donalds,Wild Berry Smoothie (Medium),Desserts,260,5,1,35,60,4,3
+Mc Donalds,1% Low Fat Milk Jug,Soft Drinks,100,20,2,125,12,0,8
+Mc Donalds,1% Low Fat Chocolate Milk Jug,Soft Drinks,170,25,3,150,26,1,9
+Mc Donalds,Minute Maid 100% Apple Juice Box,Soft Drinks,100,0,0,15,23,0,0
+Mc Donalds,Dasani Water,Soft Drinks,0,0,0,0,0,0,0
+Mc Donalds,Minute Maid Orange Juice (Medium),Soft Drinks,190,0,0,0,39,0,3
+Mc Donalds,Coca-Cola Classic (Medium),Soft Drinks,210,0,0,15,58,0,0
+Mc Donalds,Diet Coke (Medium),Soft Drinks,0,0,0,30,0,0,0
+Mc Donalds,Sprite (Medium),Soft Drinks,210,0,0,55,56,0,0
+Mc Donalds,Hi-C Orange Lavaburst (Medium),Soft Drinks,240,0,0,10,64,0,0
+Mc Donalds,Powerrade Mountain Blast (Medium),Soft Drinks,150,0,0,130,39,0,0
+Mc Donalds,Iced Tea (Medium),Soft Drinks,0,0,0,15,0,0,0
+Mc Donalds,Coffee (Small),Soft Drinks,0,0,0,0,0,0,0
+Mc Donalds,Coffee Cream,Soft Drinks,20,20,2,15,0,0,0
+Mc Donalds,Sugar Packet,Soft Drinks,15,0,0,0,4,0,0
+Mc Donalds,Equal 0 Cal Sweetener,Soft Drinks,0,0,0,0,1,0,0
+Mc Donalds,Splenda No Calorie Sweetener,Soft Drinks,0,0,0,0,1,0,0
+Mc Donalds,Iced Coffee - Caramel (Medium),Soft Drinks,190,70,8,115,27,0,2
+Mc Donalds,Iced Coffee - Hazelnut (Medium),Soft Drinks,190,70,8,60,29,0,2
+Mc Donalds,Iced Coffee - Regular (Medium),Soft Drinks,200,70,8,60,30,0,2
+Mc Donalds,Iced Coffee - Vanilla (Medium),Soft Drinks,190,70,8,60,29,0,2
+Mc Donalds,Iced Coffee with Sugar Free Vanilla Syrup (Medium),Soft Drinks,90,70,8,100,11,0,2
+Mc Donalds,Sweet Tea (Medium),Soft Drinks,180,0,0,10,45,0,1

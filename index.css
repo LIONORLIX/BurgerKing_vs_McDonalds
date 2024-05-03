@@ -1,0 +1,31 @@
+body{
+    margin:0;    
+}
+
+#glyphContainer{
+    overflow:scroll;
+}
+
+#glyphContainer svg {
+    overflow:visible;
+}
+
+.exampleContainer{
+    background-color:rgb(255, 246, 234);
+    width: 100%;
+    /* text-align: center; */
+    height:15vh;
+    position:fixed;
+}
+
+.spacer{
+    background-color:rgb(255, 246, 234);
+    /* text-align: center; */
+    height:15vh;
+}
+
+.exampleContainer img{
+    position: relative;
+    left: 1.5vw;
+    top: 1.2vh;
+}
